@@ -1,0 +1,9 @@
+# intellij user specific stuff
+.idea/
+*.iml
+
+# maven stuff
+target/
+
+# finder index files
+**.DS_Store
